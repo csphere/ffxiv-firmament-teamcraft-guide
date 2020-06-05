@@ -1,6 +1,7 @@
 ## A **SlvrD** PowerLeveling Guide for **The Firmament** and **Teamcraft**
 
 _(Updated for 5.2)_
+
 _By Bitsy Nez_
 
 ---
