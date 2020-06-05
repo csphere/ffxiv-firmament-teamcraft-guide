@@ -1,4 +1,4 @@
-## A **SlvrD** PowerLeveling Guide for **The Firmament** and **Teamcraft**
+## A **SlvrD** Power-Leveling Guide for **The Firmament** and **TeamCraft**
 
 _(Updated for 5.2)_
 
@@ -17,7 +17,13 @@ Hi!  I'm **lazy**.
 
 This covers how I finished leveling my crafter classes 1-80 in around a week (although I already had one or two leveled up a bit before starting).  There are plenty of other ways to quickly level crafters, such as using Levequests, and things I haven't even heard of yet.  This guide is hyper-focused on using one system.
 
-A gil investment is required, but can be mitigated by **asking your FC members for help with gearing up as you level instead of buying everything off of the MB because we love you**, and by World Shopping (covered later).
+### Things to Keep in Mind
+
+- **You have to be somewhat reasonably geared for these crafts to work**.  It doesn't have to be HQ gear and it doesn't even have to be socketed, but make sure your gear level is not behind your own by more than 5 or 10 levels.  **If your gear isn't good enough, your stats won't be sufficient to complete the craft with the required collectability (quality) in the TeamCraft Simulator (more below) or in game.**
+- Try to craft things at a profit and sell them as recipes become available to your crafters
+- Put your excess Approved Skybuilders' materials (more on this below) up for sale and try to stay somewhat on top of keeping the listing prices updated.  The Skybuilders' market moves fast.
+- World shop for things which are expensive or which you need in bulk.  If you need sub-combines (mats made by other crafter classes) which you can't yet make, **ask the FC for some help**.
+
 
 <br>
 
@@ -35,7 +41,7 @@ The Firmament is unlocked by completed the quest [Towards the Firmament](https:/
 
 ![Recruitment Notice](https://i.imgur.com/w0WWR7u.png)
 
-Follow this questline until the The Firmament is unlocked.
+Follow this quest line until the The Firmament is unlocked.
 
 <br>
 
@@ -49,7 +55,7 @@ Once unlocked, you can travel to the Firmament using the Aetheryte menu in [Foun
 
 ### Unlocking AllTheThings.jpg
 
-When you travel to firmament, you will find yourself in an area with severeal tents and NPCs.  Run around this general area and click on everyone with a quest bubble until you've gotten through all the cutscenes, tutorials, etc.
+When you travel to firmament, you will find yourself in an area with several tents and NPCs.  Run around this general area and click on everyone with a quest bubble until you've gotten through all the cutscenes, tutorials, etc.
 
 ![Firmament Unlock NPCs](https://i.imgur.com/HQVo8dd.png)
 
@@ -220,7 +226,15 @@ Note: If you are not already using this World Shopping technique for anything ex
 
 ## 5. TeamCraft up a Macro
 
-Go back to TeamCraft and find the item to craft.  Create new rotation, and find a successful synthesis that gives you the desired collectibility, and update your Macro in game.  **Be vigilant about keeping your Crafter Class stats up to date in your TeamCraft profile in order to keep the results in the TeamCraft Simulator and the actual in-game craft consistent.**
+Go back to TeamCraft and find the item to craft.  Create new rotation, and find a successful synthesis that gives you the desired collectability, and update your Macro in game.
+
+**VERY IMPORTANT**:
+
+Be vigilant about:
+
+- keeping your gear reasonably up to date.  Your stats are absolutely essential in being able to craft these items at the collectability required to turn them in
+- keeping your Crafter Class stats up to date in your TeamCraft profile in order to keep the results in the TeamCraft Simulator and the actual in-game craft consistent
+- **If you are having trouble staying geared without going broke, ask the FC for help**.  Most of the time, when a crafter helps out with making some gear, they will also make some extras to sell on the market board.  Not only do we want to help you, but we end up making money anyway.  **LET US LOVE YOU**.  You aren't bothering us. <3
 
 ## 6. Find a Series to Binge
 
@@ -238,7 +252,7 @@ Each time you unlock a new Collectible turn-in, return to step (4) and repeat th
 
 ## Etc.
 
-- **Ask FC family for help** in procuring crafting gear you'll need to make this work.  If you skimp on crafting gear, you will have trouble achieving high, or even minimum collectibility.  You don't want to skimp too much on crafter gear (Especially your Primary, Offhand, Chest, and Legs).
+- **Ask FC family for help** in procuring crafting gear you'll need to make this work.  If you skimp on crafting gear, you will have trouble achieving high, or even minimum collectability.  You don't want to skimp too much on crafter gear (Especially your Primary, Offhand, Chest, and Legs).
 - If prices on Siren for a particular material are very high in comparison with the best price you found, it might be worth it to scoop up some extra and throw it up for resale on a Siren retainer as a means of self-sustaining your operation.
 - **Ask FC family for help** in procuring materials which turn out to be cost-prohibitive, even after world shopping (looking at you, LTW).  I'm sure someone will be willing to assist in gathering what you need.
 - I didn't focus too much on gatherers here, but all the Skybuilders' materials you'll need for these crafts can be found in the Diadem manually as well, although that will take a lot longer.  If you choose, you could level up your Gathering classes in tandem with this, as Diadem is, in general, very good experience for Gatherer leveling.
