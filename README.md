@@ -125,13 +125,13 @@ You'll then need to verify your account.  Follow [these instructions](https://wi
 
 For this example I'll be using Carpenter to create Grade 2 Skybuilders' Stepladder
 
-#### 1. Set your crafter level and stats
+### 1. Set your crafter level and stats
 
 In the upper right of TeamCraft click "Profile", and edit the stats for the desired class using this particular blue button, and then Save:
 
 ![Edit Stats](https://i.imgur.com/DQpN8uH.png)
 
-#### 2. Search for the desired item and create a rotation
+### 2. Search for the desired item and create a rotation
 
 On the Left, click "Search" and type in the desired name.  Note fuzzy search works here.  I.e. "sky ladder" will return "Grade 2 Skybuilders' Stepladder".  In the item's row, click the "Craft in Simulator" button here:
 
@@ -143,7 +143,7 @@ A sidebar will show up on the right.  Click "New Rotation":
 
 Your character stats will automatically fill in.  At the bottom of the screen you will have a Crafting Simulator with your skills available for your class, level, and stats.  **The notches on the Quality bar for these Collectibles represent each tier of rewards, with the first notch being the minimum required for turn-in.**
 
-#### 3. Simulate the craft
+### 3. Simulate the craft
 
 ![Simulator](https://i.imgur.com/WBePzTf.png)
 
@@ -152,7 +152,7 @@ Play with the rotation until you've found a solution you are happy with that at 
 ![Simulation Complete](https://i.imgur.com/gkJopX6.png)
 
 
-#### 4. Export the rotation to a Macro
+### 4. Export the rotation to a Macro
 
 Now that you have a working rotation, export it to a Macro using this... particular blue button:
 
