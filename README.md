@@ -172,7 +172,9 @@ The maximum macro length is 15 lines.  For longer macros, you'll need to split t
 
 ## 1. Get all your tools for levels 1-50
 
-Visit a Fieldcraft Supplier vendors and buy all your Primary and Secondary tools for one particular class.  There will be a vendor section for each chunk of 10~ levels up to 49.  Go through each section and snag one of each for the class you are currently working on  (powerleveling one class at a time is the way to go here imo, otherwise it can get too hectic with inventory/macro management).
+Visit a Fieldcraft Supplier vendors and buy all your Primary and Secondary tools for one particular class.  There will be a vendor section for each chunk of 10~ levels up to 49.
+
+Go through each section and snag one of each for the class you are currently working on  (powerleveling one class at a time is the way to go here imo, otherwise it can get too hectic with inventory/macro management).
 
 Personally I use [this guy](https://ffxiv.consolegameswiki.com/wiki/Syneyhil) in Limsa Lower:
 
