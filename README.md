@@ -2,11 +2,13 @@
 
 _(Updated for 5.2)_
 
-_By Bitsy Nez_
-
 ---
 
-_For my friends and family in SlvrD_
+_From Bitsy Nez_
+
+_To my friends and family in SlvrD_
+
+---
 
 Hi I'm *Bitsy*, and I'm **lazy**.
 
