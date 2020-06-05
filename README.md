@@ -4,9 +4,9 @@ _(Updated for 5.2)_
 
 ---
 
-_From Bitsy Nez_
+_From: Bitsy Nez_
 
-_To my friends and family in SlvrD_
+_To: My friends and family in SlvrD_
 
 ---
 
