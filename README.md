@@ -1,4 +1,6 @@
-# Power-Leveling Crafters with the Firmament and Teamcraft
+# **SlvrD** - Power-Leveling Crafters with the **Firmament** and **Teamcraft** _(Updated for 5.2)_
+
+_For my friends and family in SlvrD_
 
 Hi I'm *Bitsy*, and I'm **lazy**.
 
