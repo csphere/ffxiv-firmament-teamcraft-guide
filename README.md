@@ -10,7 +10,7 @@ _To: My friends and family in SlvrD_
 
 ---
 
-Hi I'm *Bitsy*, and I'm **lazy**.
+Hi!  I'm **lazy**.
 
 ![Hi](https://i.imgur.com/vNTurtn.png)
 
