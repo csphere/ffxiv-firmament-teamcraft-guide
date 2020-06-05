@@ -12,7 +12,6 @@ A gil investment is required, but can be mitigated by **asking your FC members f
 <br>
 
 ### Prerequisites
--
 
 - Be lazy like me
 - Be at least level 60 Disciple of War or Magic
@@ -21,7 +20,6 @@ A gil investment is required, but can be mitigated by **asking your FC members f
 <br>
 
 ### Unlocking Access to The Firmament
--
 
 The Firmament is unlocked by completed the quest [Towards the Firmament](https://ffxiv.consolegameswiki.com/wiki/Towards_the_Firmament) which can be picked up from [Recruitment Notice](https://ffxiv.consolegameswiki.com/wiki/Recruitment_Notice) in [Foundation](https://ffxiv.consolegameswiki.com/wiki/Foundation) at `X:9.7 Y:11.5`.
 
@@ -32,7 +30,6 @@ Follow this questline until the The Firmament is unlocked.
 <br>
 
 ### Getting to the Firmament
--
 
 Once unlocked, you can travel to the Firmament using the Aetherite menu in [Foundation](https://ffxiv.consolegameswiki.com/wiki/Foundation).  **The Firmament is not accessible via the local Aethernet; only the Aetherite.**
 
@@ -41,7 +38,6 @@ Once unlocked, you can travel to the Firmament using the Aetherite menu in [Foun
 <br>
 
 ### Unlocking AllTheThings.jpg
--
 
 When you travel to firmament, you will find yourself in an area with severeal tents and NPCs.  Run around this general area and click on everyone with a quest bubble until you've gotten through all the cutscenes, tutorials, etc.
 
@@ -70,7 +66,6 @@ You can travel to the Diadem by talking to [Aurvael](https://ffxiv.consolegamesw
 <br>
 
 ### Skybuilders' Materials Approval
--
 
 Materials gathered directly from the Diadem are untradeable and can't be used in crafting (useless) until they are "Approved".  This guy next to Aurvael will approve can help with that, if you say please.
 
@@ -88,7 +83,6 @@ Once Skybuilders' materials are Approved, they can:
 <br>
 
 ### Crafting Collectibles for Ishgardian Restoration
--
 
 Collectibles are the items turned in at [Potkin](https://ffxiv.consolegameswiki.com/wiki/Potkin), the Collectible Appraiser, to help with the Ishgardian Restoration.  This is where the EXP actually comes from (as well as Skybuilders' Scrips).  **In order to craft these items, your crafter must be at least level 20.**
 
@@ -113,14 +107,12 @@ Crafting these in bulk and turning them in will already level you up fairly fast
 <br>
 
 # TeamCraft
--
 
 TeamCraft is in-depth and feature-rich.  It can be daunting at first but **trust me, learning it is worth the time**.  Here I'm only going to focus on the elements of TeamCraft which are needed for this Power Leveling approach, but going learning more about it will help you get comfortable with submitting, gathering for, and assisting in carrying out Crafting Requests managed within in our `#crafting-requests` Discord channel.
 
 <br>
 
 ### Initial Setup
--
 
 - Visit [TeamCraft](ffxivteamcraft.com)
 - You will be given an Anonymous user by default; in the Upper-right, hover and click "Registration"
@@ -177,7 +169,6 @@ The maximum macro length is 15 lines.  For longer macros, you'll need to split t
 <br>
 
 # Putting it all together: 1-80
--
 
 ## 1. Get all your tools for levels 1-50
 
