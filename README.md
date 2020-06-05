@@ -1,5 +1,4 @@
 # Power-Leveling Crafters with the Firmament and Teamcraft
----
 
 Hi I'm *Bitsy*, and I'm **lazy**.
 
@@ -11,6 +10,7 @@ This covers how I finished leveling my crafter classes 1-80 in around a week (al
 A gil investment is required, but can be mitigated by **asking your FC members for help with gearing up as you level instead of buying everything off of the MB because we love you**, and by World Shopping (covered later).
 
 <br>
+
 ### Prerequisites
 -
 
@@ -19,6 +19,7 @@ A gil investment is required, but can be mitigated by **asking your FC members f
 - Complete the Main Story Quest [Litany of Peace](https://ffxiv.consolegameswiki.com/wiki/Litany_of_Peace) (Patch 3.3).
 
 <br>
+
 ### Unlocking Access to The Firmament
 -
 
@@ -29,6 +30,7 @@ The Firmament is unlocked by completed the quest [Towards the Firmament](https:/
 Follow this questline until the The Firmament is unlocked.
 
 <br>
+
 ### Getting to the Firmament
 -
 
@@ -37,6 +39,7 @@ Once unlocked, you can travel to the Firmament using the Aetherite menu in [Foun
 ![Traveling to The Firmament](https://i.imgur.com/WVOEclI.png)
 
 <br>
+
 ### Unlocking AllTheThings.jpg
 -
 
@@ -47,6 +50,7 @@ When you travel to firmament, you will find yourself in an area with severeal te
 **Click even if it is a Side Quest bubble** (like above) rather than an Unlock Quest bubble.  This can be confusing because Side Quest icons usually do not unlock content, but in The Firmament it is different for whatever reason.
 
 <br>
+
 # The Diadem
 
 [The Diadem](https://ffxiv.consolegameswiki.com/wiki/The_Diadem) is a shared, gathering-focused instance in which you gather special [Skybuilders Materials](https://ffxiv.consolegameswiki.com/wiki/The_Ishgard_Restoration#Skybuilders_Materials) used in helping with the [Ishgardian Restoration](https://ffxiv.consolegameswiki.com/wiki/The_Ishgard_Restoration).
@@ -64,6 +68,7 @@ You can travel to the Diadem by talking to [Aurvael](https://ffxiv.consolegamesw
 - Use the Aetheromatic Augur skill to kill monsters for lots of mats - these aren't KOS and don't fight back.  The Augur bar looks and behaves like a limit break.
 
 <br>
+
 ### Skybuilders' Materials Approval
 -
 
@@ -81,6 +86,7 @@ Once Skybuilders' materials are Approved, they can:
 - be traded and sold on the Market Board (some reasonable gil can be made here)
 
 <br>
+
 ### Crafting Collectibles for Ishgardian Restoration
 -
 
@@ -105,12 +111,14 @@ Important stuff:
 Crafting these in bulk and turning them in will already level you up fairly fast, but we can make this process far faster and easier by making use of reliable Macros.  This is where TeamCraft comes in.
 
 <br>
+
 # TeamCraft
 -
 
 TeamCraft is in-depth and feature-rich.  It can be daunting at first but **trust me, learning it is worth the time**.  Here I'm only going to focus on the elements of TeamCraft which are needed for this Power Leveling approach, but going learning more about it will help you get comfortable with submitting, gathering for, and assisting in carrying out Crafting Requests managed within in our `#crafting-requests` Discord channel.
 
 <br>
+
 ### Initial Setup
 -
 
@@ -167,6 +175,7 @@ The maximum macro length is 15 lines.  For longer macros, you'll need to split t
 ![Simulation Macro Result Split](https://i.imgur.com/ky6PBKX.png)
 
 <br>
+
 # Putting it all together: 1-80
 -
 
