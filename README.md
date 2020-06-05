@@ -1,4 +1,9 @@
-# **SlvrD** - Power-Leveling Crafters with the **Firmament** and **Teamcraft** _(Updated for 5.2)_
+## A **SlvrD** PowerLeveling Guide for **The Firmament** and **Teamcraft**
+
+_(Updated for 5.2)_
+_By Bitsy Nez_
+
+---
 
 _For my friends and family in SlvrD_
 
