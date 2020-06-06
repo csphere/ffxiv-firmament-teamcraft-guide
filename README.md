@@ -264,6 +264,7 @@ Each time you unlock a new Collectable turn-in, return to step (4) and repeat th
 
 ## Our Helpful Craft Team
 
+```
 Malen Kins     - GSM/BSM/WVR
 Rebecca Love   - ALC/BSM/ARM
 Saya Tula      - WVR/LTW/CRP
@@ -275,6 +276,7 @@ Kirra Skye     - GSM/BSM/WVR
 Moose Dragon   - General Omnicrafter
 Ayira Ebele    - CUL
 Doks Mistake   - ALC
+```
 
 Please don't hesitate to reach out!
 
