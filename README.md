@@ -130,7 +130,7 @@ TeamCraft is in-depth and feature-rich.  It can be daunting at first but **trust
 
 ### Initial Setup
 
-- Visit [TeamCraft](ffxivteamcraft.com)
+- Visit [TeamCraft](https://ffxivteamcraft.com)
 - You will be given an Anonymous user by default; in the Upper-right, hover and click "Registration"
 - Register and confim your account
 - Go to your Account Profile and Add your FFXIV character by Name/World
