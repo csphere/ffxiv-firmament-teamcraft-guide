@@ -258,7 +258,14 @@ Each time you unlock a new Collectable turn-in, return to step (4) and repeat th
 - If prices on Siren for a particular material are very high in comparison with the best price you found, it might be worth it to scoop up some extra and throw it up for resale on a Siren retainer as a means of self-sustaining your operation.
 - **Ask FC family for help** in procuring materials which turn out to be cost-prohibitive, even after world shopping (looking at you, LTW).  I'm sure someone will be willing to assist in gathering what you need.
 - I didn't focus too much on gatherers here, but all the Skybuilders' materials you'll need for these crafts can be found in the Diadem manually as well, although that will take a lot longer.  If you choose, you could level up your Gathering classes in tandem with this, as Diadem is, in general, very good experience for Gatherer leveling.
-- **Ask FC famnily for help DANGIT**
+- **Ask FC family for help DANGIT**
 - **ASK FC FAMILY FOR HELP.  LET US LOVE YOU.**
 - PLEASE tell me how this guide can be better by telling me what you had trouble with, what is missing, what I got wrong, etc.
+
+## Our Helpful Craft Team
+
+
+
+Please don't hesitate to reach out!
+
 
