@@ -113,7 +113,7 @@ You will see the recipes available for your current class, based on your current
 
 ![Collectable Appraiser Requests](https://i.imgur.com/5NXiz9y.png)
 
-Important stuff:
+**Important stuff**:
 
 - Collectables can not be Quick Synthesized
 - Collectability is analogous to, and replaces the concept of Quality with regard to how it works during crafting
@@ -139,17 +139,17 @@ TeamCraft is a free, in-depth, and feature-rich crafting manager and simulator f
 
 You'll then need to verify your account.  Follow [these instructions](https://wiki.ffxivteamcraft.com/guides/verify-your-character) to do so.  **NOTE**: Step (4) of these instructions links to the french version of the Lodestone Profile.  Use [this](https://na.finalfantasyxiv.com/lodestone/my/setting/profile/) link instead.
 
-### Creating a Macro using the Simulator
+### Creating a Macro Using the Simulator
 
 For this example I'll be using Carpenter to create Grade 2 Skybuilders' Stepladder
 
-### 1. Set your crafter level and stats
+### 1. Set Your Crafter Level and Stats
 
 In the upper right of TeamCraft click "Profile", and edit the stats for the desired class using this particular blue button, and then Save:
 
 ![Edit Stats](https://i.imgur.com/DQpN8uH.png)
 
-### 2. Search for the desired item and create a rotation
+### 2. Search for the Desired Item and Create a Rotation
 
 On the Left, click "Search" and type in the desired name.  Note fuzzy search works here.  I.e. "sky ladder" will return "Grade 2 Skybuilders' Stepladder".  In the item's row, click the "Craft in Simulator" button here:
 
@@ -170,7 +170,7 @@ Play with the rotation until you've found a solution you are happy with that at 
 ![Simulation Complete](https://i.imgur.com/gkJopX6.png)
 
 
-### 4. Export the rotation to a Macro
+### 4. Export the Rotation to a Macro
 
 Now that you have a working rotation, export it to a Macro using this... particular blue button:
 
@@ -186,9 +186,9 @@ The maximum macro length is 15 lines.  For longer macros, you'll need to split t
 
 <br>
 
-# Putting it all together: 1-80
+# Putting it All Together: 1-80
 
-## 1. Get all your tools for levels 1-50
+## 1. Purchase All Your Tools for Levels 1-50
 
 Visit a Fieldcraft Supplier vendors and buy all your Primary and Secondary tools for one particular class.  There will be a vendor section for each chunk of 10~ levels up to 49.
 
@@ -198,15 +198,15 @@ Personally I use [this guy](https://ffxiv.consolegameswiki.com/wiki/Syneyhil) in
 
 ![Limsa Lower Fieldcraft Supplier](https://i.imgur.com/BYavKQj.png)
 
-## 2. Visit your Crafter Guild and Rush level 20
+## 2. Visit Your Crafter Guild and Rush Level 20
 
 You must be lvl 20 to participate in Ishgardian Restoration.  Go find the guild for your curent crafter class and start the quest chain if you haven't already.  Buy up simple mats from the vendor there (or the Material Supplier in our FC house) for use in lvl 1-15 recipes.  You should easily be able to spam Quick Synth up to level 20 in 30mins - 1hr.
 
-## 3. Visit the Collectable Appraiser mentioned above
+## 3. Visit the Collectable Appraiser Mentioned Above
 
 Go to The Firmament and talk to the Collectable Appriaser.  They will show you which item you need to craft given your current class and level.  Find that recipe in your Crafting Log, favorite it, and look at the mats required.
 
-## 4. World shop for mats and crystals
+## 4. World Shop for Materials and Crystals
 
 You will BREAK YOURSELF buying skybuilders' mats as well as other required mats from the MB **unless you world shop**.  You can visit an Aetheryte at a Capital City, and select "Visit Another World Server"
 
@@ -226,7 +226,7 @@ Visit _every world_ in the data center, and every time you see a price that beat
 
 Note: If you are not already using this World Shopping technique for anything expensive or in high-quantity, you are probably spending well over 200% of what you actually have to, cumulatively.  Use this.
 
-## 5. TeamCraft up a Macro
+## 5. Teamcrafting a Macro
 
 Go back to TeamCraft and find the item to craft.  Create new rotation, and find a successful synthesis that gives you the desired collectability, and update your Macro in game.
 
