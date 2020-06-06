@@ -19,9 +19,9 @@ This covers how I finished leveling my crafter classes 1-80 in around a week (al
 
 ### Things to Keep in Mind
 
-- **You have to be somewhat reasonably geared for these crafts to work**.  It doesn't have to be HQ gear and it doesn't even have to be socketed, but make sure your gear level is not behind your own by more than 5 or 10 levels.  **If your gear isn't good enough, your stats won't be sufficient to complete the craft with the required collectability (quality) in the TeamCraft Simulator (more below) or in game.**
+- **You have to be somewhat reasonably geared for these crafts to work**.  It doesn't have to be HQ gear and it doesn't even have to be socketed, but make sure your gear level is not behind your own by more than 5 or 10 levels.  **If your gear isn't good enough, your stats won't be sufficient to complete the craft with the required collectability (quality) in the TeamCraft Simulator (more below) or in game**
 - Try to craft things at a profit and sell them as recipes become available to your crafters
-- Put your excess Approved Skybuilders' materials (more on this below) up for sale and try to stay somewhat on top of keeping the listing prices updated.  The Skybuilders' market moves fast.
+- Put your excess Approved Skybuilders' materials (more on this below) up for sale and try to stay somewhat on top of keeping the listing prices updated.  The Skybuilders' market moves fast
 - World shop for things which are expensive or which you need in bulk.  If you need sub-combines (mats made by other crafter classes) which you can't yet make, **ask the FC for some help**.
 
 
@@ -73,9 +73,9 @@ You can travel to the Diadem by talking to [Aurvael](https://ffxiv.consolegamesw
 
 ![Aurvael](https://i.imgur.com/4HFTVxb.png)
 
-- You'll be booted out of the Diadem after 10 mins of inactivity.
-- You get to keep any materials gathered while in the Diadem, even if booted.
-- You can leave at any time by opening the Duty Finder window and clicking Leave.
+- You'll be booted out of the Diadem after 10 mins of inactivity
+- You get to keep any materials gathered while in the Diadem, even if booted
+- You can leave at any time by opening the Duty Finder window and clicking Leave
 - Flying is unlocked by default; fly into tornado lookin' things to move around more faster
 - Use the Aetheromatic Augur skill to kill monsters for lots of mats - these aren't KOS and don't fight back.  The Augur bar looks and behaves like a limit break.
 
@@ -87,14 +87,14 @@ Materials gathered directly from the Diadem are untradeable and can't be used in
 
 - select a DOL tab at the top of the Resource Control window
 - spam "Auto Select" -> "Request Inspection" until there is nothing left for approval
-- if the "Auto-Submit" button is grayed out, then you don't have anything for that class
+- if the "Auto-Submit" button is grayed out, then you don't have anything for that class.
 
 ![Resource Control](https://i.imgur.com/3Z12lEq.png)
 
 Once Skybuilders' materials are Approved, they can:
 
 - be used in crafting Collectables (the primary turn-ins in this process)
-- be traded and sold on the Market Board (some reasonable gil can be made here)
+- be traded and sold on the Market Board (some reasonable gil can be made here).
 
 <br>
 
@@ -116,7 +116,7 @@ Important stuff:
 - Collectables can not be Quick Synthesized
 - Collectability is analogous to, and replaces the concept of Quality with regard to how it works during crafting
 - the Collectables have a minimum Collectibility in order to turn-in and receive rewards
-- Rewards increase in tiers based on Collectibility of the items as listed at the bottom of Ishgardian Restoration window
+- Rewards increase in tiers based on Collectibility of the items as listed at the bottom of Ishgardian Restoration window.
 
 Crafting these in bulk and turning them in will already level you up fairly fast, but we can make this process far faster and easier by making use of reliable Macros.  This is where TeamCraft comes in.
 
@@ -133,7 +133,7 @@ TeamCraft is in-depth and feature-rich.  It can be daunting at first but **trust
 - Visit [TeamCraft](ffxivteamcraft.com)
 - You will be given an Anonymous user by default; in the Upper-right, hover and click "Registration"
 - Register and confim your account
-- Go to your Account Profile and Add your FFXIV character by Name/World
+- Go to your Account Profile and Add your FFXIV character by Name/World.
 
 You'll then need to verify your account.  Follow [these instructions](https://wiki.ffxivteamcraft.com/guides/verify-your-character) to do so.  **NOTE**: Step (4) of these instructions links to the french version of the Lodestone Profile.  Use [this](https://na.finalfantasyxiv.com/lodestone/my/setting/profile/) link instead.
 
