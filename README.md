@@ -260,11 +260,21 @@ Each time you unlock a new Collectable turn-in, return to step (4) and repeat th
 - I didn't focus too much on gatherers here, but all the Skybuilders' materials you'll need for these crafts can be found in the Diadem manually as well, although that will take a lot longer.  If you choose, you could level up your Gathering classes in tandem with this, as Diadem is, in general, very good experience for Gatherer leveling.
 - **Ask FC family for help DANGIT**
 - **ASK FC FAMILY FOR HELP.  LET US LOVE YOU.**
-- PLEASE tell me how this guide can be better by telling me what you had trouble with, what is missing, what I got wrong, etc.
+- PLEASE tell me how this guide can be better by giving any feedback or if you have questions, comments, or concerns.
 
 ## Our Helpful Craft Team
 
-
+Malen Kins     - GSM/BSM/WVR
+Rebecca Love   - ALC/BSM/ARM
+Saya Tula      - WVR/LTW/CRP
+Emily Amell    - ARM/GSM/CUL
+Ishdar Teldath - LTW/WVR/GSM
+Raena Tavare   - ALC/CUL/GSM
+Misplaced Hope - WVR/LTW/CUL
+Kirra Skye     - GSM/BSM/WVR
+Moose Dragon   - General Omnicrafter
+Ayira Ebele    - CUL
+Doks Mistake   - ALC
 
 Please don't hesitate to reach out!
 
