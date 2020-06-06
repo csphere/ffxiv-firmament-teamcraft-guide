@@ -97,29 +97,29 @@ Materials gathered directly from the Diadem are untradeable and can't be used in
 
 Once Skybuilders' materials are Approved, they can:
 
-- be used in crafting Collectables (the primary turn-ins in this process)
+- be used in crafting Collectibles (the primary turn-ins in this process)
 - be traded and sold on the Market Board (some reasonable gil can be made here).
 
 <br>
 
-### Crafting Collectables for Ishgardian Restoration
+### Crafting Collectibles for Ishgardian Restoration
 
-Collectables are the items turned in at [Potkin](https://ffxiv.consolegameswiki.com/wiki/Potkin), the Collectable Appraiser, to help with the Ishgardian Restoration.  This is where the EXP actually comes from (as well as Skybuilders' Scrips).  **In order to craft these items, your crafter must be at least level 20.**
+Collectibles are the items turned in at [Potkin](https://ffxiv.consolegameswiki.com/wiki/Potkin), the Collectible Appraiser, to help with the Ishgardian Restoration.  This is where the EXP actually comes from (as well as Skybuilders' Scrips).  **In order to craft these items, your crafter must be at least level 20.**
 
 You can find the Recipes for Ishgardian Restoration Phase 2 in your Crafting Log under the Special Recipes tab, subsection Restoration (2):
 
 ![Crafting Log](https://i.imgur.com/XVr9ipG.png)
 
 
-You will see the recipes available for your current class, based on your current level, map to a request from the Collectable Appraiser:
+You will see the recipes available for your current class, based on your current level, map to a request from the Collectible Appraiser:
 
-![Collectable Appraiser Requests](https://i.imgur.com/5NXiz9y.png)
+![Collectible Appraiser Requests](https://i.imgur.com/5NXiz9y.png)
 
 **Important stuff**:
 
-- Collectables can not be Quick Synthesized
-- Collectability is analogous to, and replaces the concept of Quality with regard to how it works during crafting
-- the Collectables have a minimum Collectibility in order to turn-in and receive rewards
+- Collectibles can not be Quick Synthesized
+- Collectability is analogous to, and replaces the concept of, Quality with regard to how it works during crafting
+- the Collectibles have a minimum Collectibility in order to turn-in and receive rewards
 - Rewards increase in tiers based on Collectibility of the items as listed at the bottom of Ishgardian Restoration window.
 
 Crafting these in bulk and turning them in will already level you up fairly fast, but we can make this process far faster and easier by making use of reliable Macros.  This is where TeamCraft comes in.
@@ -161,7 +161,7 @@ A sidebar will show up on the right.  Click "New Rotation":
 
 ![New Rotation](https://i.imgur.com/PhZYYmG.png)
 
-Your character stats will automatically fill in.  At the bottom of the screen you will have a Crafting Simulator with your skills available for your class, level, and stats.  **The notches on the Quality bar for these Collectables represent each tier of rewards, with the first notch being the minimum required for turn-in.**
+Your character stats will automatically fill in.  At the bottom of the screen you will have a Crafting Simulator with your skills available for your class, level, and stats.  **The notches on the Quality bar for these Collectibles represent each tier of rewards, with the first notch being the minimum required for turn-in.**
 
 ### 3. Simulate the craft
 
@@ -204,9 +204,9 @@ Personally I use [this guy](https://ffxiv.consolegameswiki.com/wiki/Syneyhil) in
 
 You must be lvl 20 to participate in Ishgardian Restoration.  Go find the guild for your curent crafter class and start the quest chain if you haven't already.  Buy up simple mats from the vendor there (or the Material Supplier in our FC house) for use in lvl 1-15 recipes.  You should easily be able to spam Quick Synth up to level 20 in 30mins - 1hr.
 
-## 3. Visit the Collectable Appraiser Mentioned Above
+## 3. Visit the Collectible Appraiser Mentioned Above
 
-Go to The Firmament and talk to the Collectable Appriaser.  They will show you which item you need to craft given your current class and level.  Find that recipe in your Crafting Log, favorite it, and look at the mats required.
+Go to The Firmament and talk to the Collectible Appriaser.  They will show you which item you need to craft given your current class and level.  Find that recipe in your Crafting Log, favorite it, and look at the mats required.
 
 ## 4. World Shop for Materials and Crystals
 
@@ -248,9 +248,9 @@ Rinse and repeat until you are out of materials.
 
 ## 7. _"**Boom**" (Handing Items In)_
 
-Travel back to The Firmament and visit the Collectable Appraiser again.  Click the relevant row and turn in the items one by one until you are out.  Do this until you are leveled enough to accept the next-highest-level item the Collectable Appriaser will receive from you.
+Travel back to The Firmament and visit the Collectible Appraiser again.  Click the relevant row and turn in the items one by one until you are out.  Do this until you are leveled enough to accept the next-highest-level item the Collectible Appriaser will receive from you.
 
-Each time you unlock a new Collectable turn-in, return to step (4) and repeat the process for the new item and macro.
+Each time you unlock a new Collectible turn-in, return to step (4) and repeat the process for the new item and macro.
 
 ## Etc.
 
