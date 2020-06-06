@@ -91,7 +91,7 @@ Materials gathered directly from the Diadem are untradeable and can't be used in
 
 - select a DOL tab at the top of the Resource Control window
 - spam "Auto Select" -> "Request Inspection" until there is nothing left for approval
-- if the "Auto-Submit" button is grayed out, then you don't have anything for that class.
+- if the "Auto-Select" button is grayed out, then you don't have anything for that class.
 
 ![Resource Control](https://i.imgur.com/3Z12lEq.png)
 
