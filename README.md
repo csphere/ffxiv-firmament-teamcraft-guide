@@ -274,6 +274,7 @@ Raena Tavare   - ALC/CUL/GSM
 Misplaced Hope - WVR/LTW/CUL
 Kirra Skye     - GSM/BSM/WVR
 Moose Dragon   - General Omnicrafter
+Bitsy Nez      - General Omnicrafter
 Ayira Ebele    - CUL
 Doks Mistake   - ALC
 ```
