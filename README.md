@@ -83,7 +83,7 @@ You can travel to the Diadem by talking to [Aurvael](https://ffxiv.consolegamesw
 
 ### Skybuilders' Materials Approval
 
-Materials gathered directly from the Diadem are untradeable and can't be used in crafting (useless) until they are "Approved".  This guy next to Aurvael will approve can help with that, if you say please.
+Materials gathered directly from the Diadem are untradeable and can't be used in crafting (useless) until they are "Approved".  This guy next to Aurvael can help with that, if you say please.
 
 - select a DOL tab at the top of the Resource Control window
 - spam "Auto Select" -> "Request Inspection" until there is nothing left for approval
