@@ -85,7 +85,7 @@ You can travel to the Diadem by talking to [Aurvael](https://ffxiv.consolegamesw
 
 Materials gathered directly from the Diadem are untradeable and can't be used in crafting (useless) until they are "Approved".  This guy next to Aurvael will approve can help with that, if you say please.
 
-- select a DOH tab at the top of the Resource Control window
+- select a DOL tab at the top of the Resource Control window
 - spam "Auto Select" -> "Request Inspection" until there is nothing left for approval
 - if the "Auto-Submit" button is grayed out, then you don't have anything for that class
 
@@ -130,7 +130,7 @@ TeamCraft is in-depth and feature-rich.  It can be daunting at first but **trust
 
 ### Initial Setup
 
-- Visit [TeamCraft](https://ffxivteamcraft.com)
+- Visit [TeamCraft](ffxivteamcraft.com)
 - You will be given an Anonymous user by default; in the Upper-right, hover and click "Registration"
 - Register and confim your account
 - Go to your Account Profile and Add your FFXIV character by Name/World
