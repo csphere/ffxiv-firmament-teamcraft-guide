@@ -238,7 +238,7 @@ Be vigilant about:
 - keeping your Crafter Class stats up to date in your TeamCraft profile in order to keep the results in the TeamCraft Simulator and the actual in-game craft consistent
 - **If you are having trouble staying geared without going broke, ask the FC for help**.  Most of the time, when a crafter helps out with making some gear, they will also make some extras to sell on the market board.  Not only do we want to help you, but we end up making money anyway.  **LET US LOVE YOU**.  You aren't bothering us. <3
 
-## 6. Find a Series to Binge
+## 6. Find a Series to Binge (Using the Craft Macro)
 
 Once you have all your materials, pick a comfy spot and click Synthesize.  Wait for your character to finish their animation and for the craft window to be visible, then kick off the craft macro.  Mind the delay or the rotation may not be executed correctly.  If you panic and need the macro to stop, use `/mcancel`.
 
