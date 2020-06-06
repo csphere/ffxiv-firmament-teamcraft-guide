@@ -126,7 +126,7 @@ Crafting these in bulk and turning them in will already level you up fairly fast
 
 # TeamCraft
 
-TeamCraft is in-depth and feature-rich.  It can be daunting at first but **trust me, learning it is worth the time**.  Here I'm only going to focus on the elements of TeamCraft which are needed for this Power Leveling approach, but going learning more about it will help you get comfortable with submitting, gathering for, and assisting in carrying out Crafting Requests managed within in our `#crafting-requests` Discord channel.
+TeamCraft is a free, in-depth, and feature-rich crafting manager and simulator for FFXIV.  It can be daunting at first but **trust me, learning it is worth the time**.  Here I'm only going to focus on the elements of TeamCraft which are needed for this Power Leveling approach, but going learning more about it will help you get comfortable with submitting, gathering for, and assisting in carrying out Crafting Requests managed within in our `#crafting-requests` Discord channel.
 
 <br>
 
