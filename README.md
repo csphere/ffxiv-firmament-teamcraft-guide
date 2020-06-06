@@ -93,14 +93,14 @@ Materials gathered directly from the Diadem are untradeable and can't be used in
 
 Once Skybuilders' materials are Approved, they can:
 
-- be used in crafting Collectibles (the primary turn-ins in this process)
+- be used in crafting Collectables (the primary turn-ins in this process)
 - be traded and sold on the Market Board (some reasonable gil can be made here)
 
 <br>
 
-### Crafting Collectibles for Ishgardian Restoration
+### Crafting Collectables for Ishgardian Restoration
 
-Collectibles are the items turned in at [Potkin](https://ffxiv.consolegameswiki.com/wiki/Potkin), the Collectible Appraiser, to help with the Ishgardian Restoration.  This is where the EXP actually comes from (as well as Skybuilders' Scrips).  **In order to craft these items, your crafter must be at least level 20.**
+Collectables are the items turned in at [Potkin](https://ffxiv.consolegameswiki.com/wiki/Potkin), the Collectible Appraiser, to help with the Ishgardian Restoration.  This is where the EXP actually comes from (as well as Skybuilders' Scrips).  **In order to craft these items, your crafter must be at least level 20.**
 
 You can find the Recipes for Ishgardian Restoration Phase 2 in your Crafting Log under the Special Recipes tab, subsection Restoration (2):
 
@@ -113,9 +113,9 @@ You will see the recipes available for your current class, based on your current
 
 Important stuff:
 
-- Collectibles can not be Quick Synthesized
+- Collectables can not be Quick Synthesized
 - Collectability is analogous to, and replaces the concept of Quality with regard to how it works during crafting
-- the Collectibles have a minimum Collectibility in order to turn-in and receive rewards
+- the Collectables have a minimum Collectibility in order to turn-in and receive rewards
 - Rewards increase in tiers based on Collectibility of the items as listed at the bottom of Ishgardian Restoration window
 
 Crafting these in bulk and turning them in will already level you up fairly fast, but we can make this process far faster and easier by making use of reliable Macros.  This is where TeamCraft comes in.
@@ -157,7 +157,7 @@ A sidebar will show up on the right.  Click "New Rotation":
 
 ![New Rotation](https://i.imgur.com/PhZYYmG.png)
 
-Your character stats will automatically fill in.  At the bottom of the screen you will have a Crafting Simulator with your skills available for your class, level, and stats.  **The notches on the Quality bar for these Collectibles represent each tier of rewards, with the first notch being the minimum required for turn-in.**
+Your character stats will automatically fill in.  At the bottom of the screen you will have a Crafting Simulator with your skills available for your class, level, and stats.  **The notches on the Quality bar for these Collectables represent each tier of rewards, with the first notch being the minimum required for turn-in.**
 
 ### 3. Simulate the craft
 
