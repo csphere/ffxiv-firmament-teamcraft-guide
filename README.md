@@ -77,7 +77,7 @@ You can travel to the Diadem by talking to [Aurvael](https://ffxiv.consolegamesw
 - You get to keep any materials gathered while in the Diadem, even if booted
 - You can leave at any time by opening the Duty Finder window and clicking Leave
 - Flying is unlocked by default; fly into tornado lookin' things to move around more faster
-- Use the Aetheromatic Augur skill to kill monsters for lots of mats - these aren't KOS and don't fight back.  The Augur bar looks and behaves like a limit break.  It charges up as you gather things, and each discharge kills one monster.  It does not working for fishing, though.
+- Use the Aetheromatic Augur skill to kill monsters for lots of mats - these aren't KOS and don't fight back.  The Augur bar looks and behaves like a limit break.  It charges up as you gather things, and each discharge kills one monster.  It does not work for fishing, though.
 
 <br>
 
