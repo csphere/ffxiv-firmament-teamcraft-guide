@@ -17,13 +17,6 @@ Hi!  I'm **lazy**.
 
 This covers how I finished leveling my crafter classes 1-80 in around a week (although I already had one or two leveled up a bit before starting).  There are plenty of other ways to quickly level crafters, such as using Levequests, and things I haven't even heard of yet.  This guide is hyper-focused on using one system.
 
-### Things to Keep in Mind
-
-- **You have to be somewhat reasonably geared for these crafts to work**.  It doesn't have to be HQ gear and it doesn't even have to be socketed, but make sure your gear level is not behind your own by more than 5 or 10 levels.  **If your gear isn't good enough, your stats won't be sufficient to complete the craft with the required collectability (quality) in the TeamCraft Simulator (more below) or in game**
-- Try to craft things at a profit and sell them as recipes become available to your crafters
-- Put your excess Approved Skybuilders' materials (more on this below) up for sale and try to stay somewhat on top of keeping the listing prices updated.  The Skybuilders' market moves fast
-- World shop for things which are expensive or which you need in bulk.  If you need sub-combines (mats made by other crafter classes) which you can't yet make, **ask the FC for some help**.
-
 
 <br>
 
@@ -32,6 +25,15 @@ This covers how I finished leveling my crafter classes 1-80 in around a week (al
 - Be lazy like me
 - Be at least level 60 Disciple of War or Magic
 - Complete the Main Story Quest [Litany of Peace](https://ffxiv.consolegameswiki.com/wiki/Litany_of_Peace) (Patch 3.3).
+
+<br>
+
+### Things to Keep in Mind
+
+- **You have to be somewhat reasonably geared for these crafts to work**.  It doesn't have to be HQ gear and it doesn't even have to be socketed, but make sure your gear level is not behind your own by more than 5 or 10 levels.  **If your gear isn't good enough, your stats won't be sufficient to complete the craft with the required collectability (quality) in the TeamCraft Simulator (more below) or in game**
+- Try to craft things at a profit and sell them as recipes become available to your crafters
+- Put your excess Approved Skybuilders' materials (more on this below) up for sale and try to stay somewhat on top of keeping the listing prices updated.  The Skybuilders' market moves fast
+- World shop for things which are expensive or which you need in bulk.  If you need sub-combines (mats made by other crafter classes) which you can't yet make, **ask the FC for some help**.
 
 <br>
 
@@ -100,16 +102,16 @@ Once Skybuilders' materials are Approved, they can:
 
 ### Crafting Collectables for Ishgardian Restoration
 
-Collectables are the items turned in at [Potkin](https://ffxiv.consolegameswiki.com/wiki/Potkin), the Collectible Appraiser, to help with the Ishgardian Restoration.  This is where the EXP actually comes from (as well as Skybuilders' Scrips).  **In order to craft these items, your crafter must be at least level 20.**
+Collectables are the items turned in at [Potkin](https://ffxiv.consolegameswiki.com/wiki/Potkin), the Collectable Appraiser, to help with the Ishgardian Restoration.  This is where the EXP actually comes from (as well as Skybuilders' Scrips).  **In order to craft these items, your crafter must be at least level 20.**
 
 You can find the Recipes for Ishgardian Restoration Phase 2 in your Crafting Log under the Special Recipes tab, subsection Restoration (2):
 
 ![Crafting Log](https://i.imgur.com/XVr9ipG.png)
 
 
-You will see the recipes available for your current class, based on your current level, map to a request from the Collectible Appraiser:
+You will see the recipes available for your current class, based on your current level, map to a request from the Collectable Appraiser:
 
-![Collectible Appraiser Requests](https://i.imgur.com/5NXiz9y.png)
+![Collectable Appraiser Requests](https://i.imgur.com/5NXiz9y.png)
 
 Important stuff:
 
@@ -200,9 +202,9 @@ Personally I use [this guy](https://ffxiv.consolegameswiki.com/wiki/Syneyhil) in
 
 You must be lvl 20 to participate in Ishgardian Restoration.  Go find the guild for your curent crafter class and start the quest chain if you haven't already.  Buy up simple mats from the vendor there (or the Material Supplier in our FC house) for use in lvl 1-15 recipes.  You should easily be able to spam Quick Synth up to level 20 in 30mins - 1hr.
 
-## 3. Visit the Collectible Appraiser mentioned above
+## 3. Visit the Collectable Appraiser mentioned above
 
-Go to The Firmament and talk to the Collectible Appriaser.  They will show you which item you need to craft given your current class and level.  Find that recipe in your Crafting Log, favorite it, and look at the mats required.
+Go to The Firmament and talk to the Collectable Appriaser.  They will show you which item you need to craft given your current class and level.  Find that recipe in your Crafting Log, favorite it, and look at the mats required.
 
 ## 4. World shop for mats and crystals
 
@@ -246,9 +248,9 @@ Rinse and repeat until you are out of materials.
 
 ## 7. _"Boom"_
 
-Travel back to The Firmament and visit the Collectible Appraiser again.  Click the relevant row and turn in the items one by one until you are out.  Do this until you are leveled enough to accept the next-highest-level item the Collectible Appriaser will receive from you.
+Travel back to The Firmament and visit the Collectable Appraiser again.  Click the relevant row and turn in the items one by one until you are out.  Do this until you are leveled enough to accept the next-highest-level item the Collectable Appriaser will receive from you.
 
-Each time you unlock a new Collectible turn-in, return to step (4) and repeat the process for the new item and macro.
+Each time you unlock a new Collectable turn-in, return to step (4) and repeat the process for the new item and macro.
 
 ## Etc.
 
