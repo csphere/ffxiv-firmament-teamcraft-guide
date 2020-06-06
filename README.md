@@ -232,8 +232,6 @@ Go back to TeamCraft and find the item to craft.  Create new rotation, and find 
 
 **VERY IMPORTANT**:
 
-Be vigilant about:
-
 - keeping your gear reasonably up to date.  Your stats are absolutely essential in being able to craft these items at the collectability required to turn them in
 - keeping your Crafter Class stats up to date in your TeamCraft profile in order to keep the results in the TeamCraft Simulator and the actual in-game craft consistent
 - **If you are having trouble staying geared without going broke, ask the FC for help**.  Most of the time, when a crafter helps out with making some gear, they will also make some extras to sell on the market board.  Not only do we want to help you, but we end up making money anyway.  **LET US LOVE YOU**.  You aren't bothering us. <3
