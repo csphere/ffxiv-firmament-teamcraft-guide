@@ -134,7 +134,7 @@ TeamCraft is a free, in-depth, and feature-rich crafting manager and simulator f
 
 ### Initial Setup
 
-- Visit [TeamCraft](ffxivteamcraft.com)
+- Visit [TeamCraft](http://www.ffxivteamcraft.com)
 - You will be given an Anonymous user by default; in the Upper-right, hover and click "Registration"
 - Register and confim your account
 - Go to your Account Profile and Add your FFXIV character by Name/World.
